@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "start:prod": "cd ../lambda-deployer-frontend && npm install && npm run build && cp -r build ../lambda-deployer && rm -r build  && cd ../lambda-deployer && npm install && npx tsc && node dist/index.js",
-    "build": "npx tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm install",
   },
   "author": "durgesh077",
   "license": "MIT",
