@@ -371,3 +371,8 @@
 2023-03-25 21:33:57:3357 [31merror[39m: [31mRequest failed with status code 429[39m
 2023-03-25 21:34:44:3444 [31merror[39m: [31mRequest failed with status code 404[39m
 2023-03-25 21:37:47:3747 [31merror[39m: [31mRequest failed with status code 404[39m
+2023-04-02 13:47:50:4750 [31merror[39m: [31mRequest failed with status code 429[39m
+2023-04-02 13:47:52:4752 [31merror[39m: [31mRequest failed with status code 429[39m
+2023-04-02 13:47:54:4754 [31merror[39m: [31mRequest failed with status code 429[39m
+2023-04-02 13:47:55:4755 [31merror[39m: [31mRequest failed with status code 429[39m
+2023-04-02 13:48:24:4824 [31merror[39m: [31mRequest failed with status code 429[39m
